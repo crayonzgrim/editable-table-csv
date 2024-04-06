@@ -10,16 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "2.8.0",
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
     "@faker-js/faker": "^8.4.1",
     "@tanstack/react-table": "^8.15.3",
-    "@types/xlsx": "^0.0.36",
     "faker": "link:@types/faker-js/faker",
+    "framer-motion": "10.16.1",
     "react": "^18.2.0",
+    "react-datepicker": "^6.6.0",
     "react-dom": "^18.2.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
+    "@types/react-datepicker": "^6.2.0",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
